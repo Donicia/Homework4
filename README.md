@@ -6,7 +6,7 @@ Py City Analysis
 
 •	Based on the analysis medium sized schools had higher passing rates in all categories (Math, Read and Overall) overall. This factor could be attributed to their student: teacher ratio and a host of other factors. It’s important to note that medium sized schools outperformed large schools by 19% and small schools by 1%.
 
-•	I would also like to highlight my findings regarding spending ranges per student. The analysis concluded students who attend schools with higher spending ranges per student, did not outperform their peers who attend schools with smaller spend per student. This factor is very important seeing that most schools struggle with maintaining their expenses. I believe this matter deserves more attention/analysis.
+•	I would also like to highlight my findings regarding spending ranges per student. The analysis concluded students who attend schools with higher spending ranges per student, did not outperform their peers who attend schools with smaller spend per student. This factor is very important seeing that most schools struggle with mananging their expenses. I believe this matter deserves more attention/analysis.
 
 •	Lastly, the analysis allowed some insight into school type. It appears that student who attend charter schools score higher on their Math and Reading versus their peers in district schools. The delta for scoring is massive, ranging from 3%-22%. Could this be due to curriculum, culture, or other factors?
 
